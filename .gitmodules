@@ -1,0 +1,6 @@
+[submodule "authentication-service"]
+	path = authentication-service
+	url = https://github.com/swapnildawange/authentication-service
+[submodule "invoice-service"]
+	path = invoice-service
+	url = https://github.com/swapnildawange/invoice-service
